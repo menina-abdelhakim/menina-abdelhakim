@@ -84,8 +84,9 @@ Ce qui m'intéresse, ce sont les détails qui décident si un logiciel tient fac
 
 - **Email** : [meninaabdelhakim@gmail.com](mailto:meninaabdelhakim@gmail.com)
 - **Téléphone** : +33 6 98 24 12 57
+- **LinkedIn** : [linkedin.com/in/abdelhakim-menina](https://www.linkedin.com/in/abdelhakim-menina/)
 - **Localisation** : France
 
 ---
 
-*Langues : français (courant), anglais (C1), arabe (natif).*
+*Langues : français (natif), anglais (C1), arabe (natif).*
