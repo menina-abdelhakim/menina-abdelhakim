@@ -3,8 +3,6 @@
 **Développeur Full Stack & Cloud — Java/Spring Boot · TypeScript/Next.js · Python**
 *Master Informatique (Programmation, Sûreté et Sécurité), Université Sorbonne Paris Nord.*
 
-France — ouvert aux opportunités en **CDI / CDD**
-
 ---
 
 ## Qui suis-je ?
