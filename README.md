@@ -11,8 +11,6 @@ Je conçois et déploie des applications full-stack sur trois écosystèmes : **
 
 En entreprise, j'ai développé une application RH complète (React, NestJS, Prisma, Keycloak, S3) puis migré et sécurisé une infrastructure web de production sur **AWS EC2**. En parallèle, **trois applications personnelles déployées en production**, chacune couverte par des tests automatisés, une intégration continue et une vraie documentation.
 
-Ce qui m'intéresse, ce sont les détails qui décident si un logiciel tient face au réel : la justesse sur les points sensibles (arrondi de TVA, numérotation sans trou, ingestion idempotente), l'autorisation appliquée au niveau des données plutôt qu'après coup, et des tests qui s'exécutent sur une vraie base.
-
 ---
 
 ## Projets en production
